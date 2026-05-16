@@ -1,10 +1,10 @@
-# lil-poke
+# Lil Poke
 
 > ⚠️ **This project is still under development.** Expect breaking changes and incomplete features as work progresses.
 
 ## About
 
-lil-poke is a personal project currently being actively developed. More details will be added as the project matures.
+Lil Poke is a personal project currently being actively developed. More details will be added as the project matures.
 
 ## Support the Project
 
