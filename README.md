@@ -12,4 +12,4 @@ If you find this project is lovely to play and want to help speed up its develop
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/donate)
 
-> 💡 Want to contribute in other ways? Feel free to open an issue or submit a pull request.
+> 💡 Want to contribute in other ways? Feel free to open an issue.
