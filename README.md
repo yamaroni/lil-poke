@@ -8,8 +8,8 @@ Lil Poke is a personal project currently being actively developed. More details 
 
 ## Support the Project
 
-If you find this project is lovely to play and want to help speed up its development, consider making a donation. Every contribution is appreciated and goes directly toward improving this project.
+If you find this project is lovely to play and want to help speed up its development, support me using the button below. Every contribution is appreciated and goes directly toward improving this project.
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.me/yamaroni)
+[![support](https://img.shields.io/badge/Support%20me%20here-blue)](https://paypal.me/yamaroni)
 
 > 💡 Want to contribute in other ways? Feel free to open an issue.
