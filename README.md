@@ -4,7 +4,13 @@
 
 ## About
 
-Lil Poke is a personal project currently being actively developed. More details will be added as the project matures.
+Lil Poke is a fan game project that currently being actively developed. More details will be added as the project matures.
+
+## Features
+
+- Lil Poke will support gen 1-9
+- Lil Poke will gave new experience playing pokemon game
+- Lil Poke is free and will never go commercial
 
 ## Support the Project
 
