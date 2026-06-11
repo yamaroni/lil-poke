@@ -31,6 +31,9 @@ A huge thank you to everyone who has supported the development of Lil Poke. Your
 * **Noris Qironik** ([Facebook](https://www.facebook.com/norizt.arianis/))
 * **Erick Javier** ([Facebook](https://www.facebook.com/erick.aliaga1/))
 * **Lloyd Vincent Soliven** ([Facebook](https://www.facebook.com/EtheriousSunJin/))
+* **Remigiusz Barankiewicz** ([Facebook](https://www.facebook.com/remigiusz.barankiewicz))
+* **Hunter Nunn** ([Facebook](https://www.facebook.com/hunter.nunn.383942))
+* **Andrew Smith** ([Facebook](https://www.facebook.com/andrew.smith.705413/))
 * **1 Anonymous Trainer**
 
 > Want your name listed here? After supporting the project, let me know how you'd like to be credited. Supporters may also choose to remain anonymous.
