@@ -17,6 +17,7 @@ Lil Poke is a free Pokémon fan game currently in active development. The goal i
 If you're enjoying Lil Poke and would like to support its continued development, you can contribute using the button below. Every donation helps fund development time, artwork, testing, and future updates.
 
 [![Support Development](https://img.shields.io/badge/Support%20Development-PayPal-blue)](https://paypal.me/yamaroni)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W3L721C8JH)
 
 Thank you for playing and supporting the project. Every contribution, no matter the size, helps move the project forward.
 
